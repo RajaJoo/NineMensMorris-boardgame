@@ -1,0 +1,14 @@
+C:\Users\Jopi\source\repos\Harkka\Test\bin\Debug\Test.dll
+C:\Users\Jopi\source\repos\Harkka\Test\bin\Debug\Test.pdb
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\UserControl1.g.cs
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\UserControl1.baml
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.g.resources
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.dll
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.pdb
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

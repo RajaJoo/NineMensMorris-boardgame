@@ -1,0 +1,164 @@
+c:\users\jopi\source\repos\Harkka\Mylly\bin\Debug\Mylly.exe.config
+c:\users\jopi\source\repos\Harkka\Mylly\bin\Debug\Mylly.exe
+c:\users\jopi\source\repos\Harkka\Mylly\bin\Debug\Mylly.pdb
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\App.g.cs
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\MainWindow.baml
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly.g.resources
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly.csproj.CoreCompileInputs.cache
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly.exe
+c:\users\jopi\source\repos\Harkka\Mylly\obj\Debug\Mylly.pdb
+C:\Users\Jopi\source\repos\Harkka\Mylly\bin\Debug\PeliNappula.dll
+C:\Users\Jopi\source\repos\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+C:\Users\Jopi\source\repos\Harkka\Mylly\bin\Debug\Test.dll
+C:\Users\Jopi\source\repos\Harkka\Mylly\bin\Debug\Test.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\bin\Debug\Mylly.exe.config
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\bin\Debug\Mylly.exe
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\bin\Debug\Mylly.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\bin\Debug\PeliNappula.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\bin\Debug\Test.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\bin\Debug\Test.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\App.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\MainWindow.baml
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly.g.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly.exe
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Mylly\obj\Debug\Mylly.pdb
+C:\MyTemp\Harkka\Mylly\bin\Debug\Mylly.exe.config
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly.exe
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly.pdb
+C:\MyTemp\Harkka\Mylly\bin\Debug\Mylly.exe
+C:\MyTemp\Harkka\Mylly\bin\Debug\Mylly.pdb
+C:\MyTemp\Harkka\Mylly\bin\Debug\PeliNappula.dll
+C:\MyTemp\Harkka\Mylly\bin\Debug\Test.dll
+C:\MyTemp\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+C:\MyTemp\Harkka\Mylly\bin\Debug\Test.pdb
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+C:\MyTemp\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+C:\MyTemp\Harkka\Mylly\obj\Debug\App.g.cs
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+C:\MyTemp\Harkka\Mylly\obj\Debug\MainWindow.baml
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly.g.resources
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+C:\MyTemp\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\bin\Debug\Mylly.exe.config
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\bin\Debug\Mylly.exe
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\bin\Debug\Mylly.pdb
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\bin\Debug\PeliNappula.dll
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\bin\Debug\Test.dll
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\bin\Debug\Test.pdb
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\App.g.cs
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\MainWindow.baml
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.g.resources
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.csproj.CoreCompileInputs.cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.exe
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\bin\Debug\Mylly.exe.config
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\bin\Debug\Mylly.exe
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\bin\Debug\Mylly.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\bin\Debug\PeliNappula.dll
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\bin\Debug\Test.dll
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\bin\Debug\Test.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\App.g.cs
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\MainWindow.baml
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.g.resources
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.exe
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\Mylly.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\SettingsWindow.g.cs
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Mylly\obj\Debug\SettingsWindow.baml
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\bin\Debug\Mylly.exe.config
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly.exe
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\bin\Debug\Mylly.exe
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\bin\Debug\Mylly.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\bin\Debug\PeliNappula.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\bin\Debug\Test.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\bin\Debug\Test.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\SettingsWindow.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\App.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\MainWindow.baml
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\SettingsWindow.baml
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly.g.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+C:\MyTemp\Harkka\Mylly\obj\Debug\SettingsWindow.g.cs
+C:\MyTemp\Harkka\Mylly\obj\Debug\SettingsWindow.baml
+C:\Users\J.Raja\Desktop\Harkka\Mylly\bin\Debug\Mylly.exe.config
+C:\Users\J.Raja\Desktop\Harkka\Mylly\bin\Debug\Mylly.exe
+C:\Users\J.Raja\Desktop\Harkka\Mylly\bin\Debug\Mylly.pdb
+C:\Users\J.Raja\Desktop\Harkka\Mylly\bin\Debug\PeliNappula.dll
+C:\Users\J.Raja\Desktop\Harkka\Mylly\bin\Debug\Test.dll
+C:\Users\J.Raja\Desktop\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+C:\Users\J.Raja\Desktop\Harkka\Mylly\bin\Debug\Test.pdb
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\SettingsWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\App.g.cs
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\MainWindow.baml
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\SettingsWindow.baml
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly.g.resources
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly.exe
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\Mylly.pdb
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\AboutWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\AboutWindow.baml
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\HelpWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkka\Mylly\obj\Debug\HelpWindow.baml
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\bin\Debug\Mylly.exe.config
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\bin\Debug\Mylly.exe
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\bin\Debug\Mylly.pdb
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\bin\Debug\PeliNappula.dll
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\bin\Debug\Test.dll
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\bin\Debug\PeliNappula.pdb
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\bin\Debug\Test.pdb
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly.csprojResolveAssemblyReference.cache
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\AboutWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\HelpWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\MainWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\SettingsWindow.g.cs
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\App.g.cs
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.cache
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly_MarkupCompile.lref
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\AboutWindow.baml
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\HelpWindow.baml
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\MainWindow.baml
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\SettingsWindow.baml
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly.g.resources
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly.Properties.Resources.resources
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly.csproj.GenerateResource.Cache
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly.exe
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\Mylly\obj\Debug\Mylly.pdb

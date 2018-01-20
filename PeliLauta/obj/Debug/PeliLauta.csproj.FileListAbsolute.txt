@@ -1,0 +1,122 @@
+C:\Users\Jopi\source\repos\Harkka\Test\bin\Debug\Test.dll
+C:\Users\Jopi\source\repos\Harkka\Test\bin\Debug\Test.pdb
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.g.resources
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\PeliLauta.csproj.CoreCompileInputs.cache
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.dll
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Test.pdb
+C:\Users\Jopi\source\repos\Harkka\Test\bin\Debug\PeliNappula.dll
+C:\Users\Jopi\source\repos\Harkka\Test\bin\Debug\PeliNappula.pdb
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Lauta.g.cs
+C:\Users\Jopi\source\repos\Harkka\Test\obj\Debug\Lauta.baml
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\bin\Debug\Test.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\bin\Debug\Test.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\bin\Debug\PeliNappula.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\bin\Debug\PeliNappula.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Lauta.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Lauta.baml
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Test.g.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Test.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Harkka\Test\obj\Debug\Test.pdb
+C:\MyTemp\Harkka\Test\bin\Debug\Test.dll
+C:\MyTemp\Harkka\Test\bin\Debug\Test.pdb
+C:\MyTemp\Harkka\Test\bin\Debug\PeliNappula.dll
+C:\MyTemp\Harkka\Test\bin\Debug\PeliNappula.pdb
+C:\MyTemp\Harkka\Test\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+C:\MyTemp\Harkka\Test\obj\Debug\Lauta.g.cs
+C:\MyTemp\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MyTemp\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+C:\MyTemp\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+C:\MyTemp\Harkka\Test\obj\Debug\Lauta.baml
+C:\MyTemp\Harkka\Test\obj\Debug\Test.g.resources
+C:\MyTemp\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+C:\MyTemp\Harkka\Test\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+C:\MyTemp\Harkka\Test\obj\Debug\Test.dll
+C:\MyTemp\Harkka\Test\obj\Debug\Test.pdb
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\bin\Debug\Test.dll
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\bin\Debug\Test.pdb
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\bin\Debug\PeliNappula.dll
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\bin\Debug\PeliNappula.pdb
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Lauta.g.cs
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Lauta.baml
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Test.g.resources
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\PeliLauta.csproj.CoreCompileInputs.cache
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Test.dll
+C:\Users\Jopi\Documents\Kouluhommat\Ohjelmointi\Harkka\Test\obj\Debug\Test.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\bin\Debug\Test.dll
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\bin\Debug\Test.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\bin\Debug\PeliNappula.dll
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\bin\Debug\PeliNappula.pdb
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Lauta.g.cs
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Lauta.baml
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Test.g.resources
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Test.dll
+C:\Users\J.Raja\Documents\Koulu\Ohjelmointi\Harkka\Test\obj\Debug\Test.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\bin\Debug\Test.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\bin\Debug\Test.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\bin\Debug\PeliNappula.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\bin\Debug\PeliNappula.pdb
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Lauta.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Lauta.baml
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Test.g.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Test.dll
+\\fileservices.ad.jyu.fi\homes\joalraja\Desktop\Graafiset Käyttöliittymät\Harkka\Test\obj\Debug\Test.pdb
+C:\Users\J.Raja\Desktop\Harkka\Test\bin\Debug\Test.dll
+C:\Users\J.Raja\Desktop\Harkka\Test\bin\Debug\Test.pdb
+C:\Users\J.Raja\Desktop\Harkka\Test\bin\Debug\PeliNappula.dll
+C:\Users\J.Raja\Desktop\Harkka\Test\bin\Debug\PeliNappula.pdb
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Lauta.g.cs
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Lauta.baml
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Test.g.resources
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Test.dll
+C:\Users\J.Raja\Desktop\Harkka\Test\obj\Debug\Test.pdb
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\bin\Debug\Test.dll
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\bin\Debug\Test.pdb
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\bin\Debug\PeliNappula.dll
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\bin\Debug\PeliNappula.pdb
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\PeliLauta.csprojResolveAssemblyReference.cache
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Lauta.g.cs
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Test_MarkupCompile.cache
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Test_MarkupCompile.lref
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Lauta.baml
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Test.g.resources
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Test.Properties.Resources.resources
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\PeliLauta.csproj.GenerateResource.Cache
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Test.dll
+C:\Users\J.Raja\Desktop\Harkkatyö vara\Harkka\PeliLauta\obj\Debug\Test.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="Mylly.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mylly"
+        mc:Ignorable="d"
+        Title="How to Play" Height="314.118" Width="300">
+    <Grid>
+        <TextBox Margin="10,10,9.6,9.8" TextWrapping="Wrap" Text="Mylly-lautapeli&#10;&#10;Kaksi pelaajaa lisäävät vuorotellen nappuloita pelilaudalle klikkaamalla Insert-näppäintä ja valitsemalla haluamansa ympyrän laudalla. Oman pelinappulan väri täytyy säätää Tools -> Settings-valikosta. Versiossa 1.0 peli päättyy viiden lisätyn nappulan jälkeen.&#10;&#10;Nappuloita voi liikuttaa laudalla valitsemalla ensin haluamansa nappulan, klikkaamalla Move-näppäintä ja valitsemalla lopuksi haluamansa paikan laudalta.&#10;Nappulan voi myös poistaa valitsemalla ensin nappulan ja klikkaamalla lopuksi Remove-näppäintä." HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" BorderBrush="White"/>
+
+    </Grid>
+</Window>
